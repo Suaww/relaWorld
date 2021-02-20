@@ -6,4 +6,6 @@ npm install
 
 # 启动开发服务
 npm run dev
-```
+
+# 服务器地址
+http://117.50.96.7:3000/
